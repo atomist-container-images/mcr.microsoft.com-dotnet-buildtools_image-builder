@@ -1,2 +1,2 @@
 # Tags: nanoserver-20H2-amd64-1466879
-FROM dotnet-buildtools/image-builder:nanoserver-20H2-amd64-1466879
+FROM mcr.microsoft.com/dotnet-buildtools/image-builder:nanoserver-20H2-amd64-1466879

@@ -1,2 +1,2 @@
 # Tags: linux-amd64-1465692
-FROM dotnet-buildtools/image-builder:linux-amd64-1465692
+FROM mcr.microsoft.com/dotnet-buildtools/image-builder:linux-amd64-1465692

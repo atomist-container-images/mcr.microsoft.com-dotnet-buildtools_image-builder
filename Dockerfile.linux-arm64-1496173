@@ -1,2 +1,2 @@
 # Tags: linux-arm64-1496173
-FROM dotnet-buildtools/image-builder:linux-arm64-1496173
+FROM mcr.microsoft.com/dotnet-buildtools/image-builder:linux-arm64-1496173
