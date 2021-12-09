@@ -1,0 +1,2 @@
+# Tags: nanoserver-20H2-amd64-1483141
+FROM dotnet-buildtools/image-builder:nanoserver-20H2-amd64-1483141

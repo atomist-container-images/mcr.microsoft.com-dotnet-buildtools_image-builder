@@ -1,0 +1,3 @@
+# Tags: linux-amd64
+FROM dotnet-buildtools/image-builder:linux-amd64
+FROM dotnet-buildtools/image-builder:linux-amd64-1503230

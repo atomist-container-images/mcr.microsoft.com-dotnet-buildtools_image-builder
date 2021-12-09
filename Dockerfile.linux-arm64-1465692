@@ -1,0 +1,2 @@
+# Tags: linux-arm64-1465692
+FROM dotnet-buildtools/image-builder:linux-arm64-1465692

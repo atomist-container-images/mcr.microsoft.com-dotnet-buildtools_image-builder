@@ -1,0 +1,2 @@
+# Tags: linux-amd64-1483141
+FROM dotnet-buildtools/image-builder:linux-amd64-1483141

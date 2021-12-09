@@ -1,0 +1,2 @@
+# Tags: nanoserver-1809-amd64-1467241
+FROM dotnet-buildtools/image-builder:nanoserver-1809-amd64-1467241

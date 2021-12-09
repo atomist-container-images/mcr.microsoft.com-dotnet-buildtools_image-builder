@@ -1,0 +1,2 @@
+# Tags: nanoserver-ltsc2022-amd64-1494052
+FROM dotnet-buildtools/image-builder:nanoserver-ltsc2022-amd64-1494052
