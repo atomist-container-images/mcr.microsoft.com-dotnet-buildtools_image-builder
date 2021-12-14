@@ -1,2 +1,0 @@
-# Tags: windowsservercore-ltsc2016-amd64-1483141
-FROM mcr.microsoft.com/dotnet-buildtools/image-builder:windowsservercore-ltsc2016-amd64-1483141

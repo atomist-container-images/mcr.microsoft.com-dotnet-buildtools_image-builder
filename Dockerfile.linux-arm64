@@ -1,3 +1,0 @@
-# Tags: linux-arm64, linux-arm64-1503230
-FROM mcr.microsoft.com/dotnet-buildtools/image-builder:linux-arm64
-FROM mcr.microsoft.com/dotnet-buildtools/image-builder:linux-arm64-1503230
